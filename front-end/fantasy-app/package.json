@@ -61,7 +61,7 @@
   "devDependencies": {
     "@angular-devkit/build-angular": "^14.2.10",
     "@angular-eslint/eslint-plugin": "^17.2.0",
-    "@angular-eslint/eslint-plugin-template": "^17.2.0",
+    "@angular-eslint/eslint-plugin-template": "^17.2.1",
     "@types/chart.js": "^2.9.32",
     "@types/d3": "^7.4.3",
     "@types/jasmine": "~5.1.4",
