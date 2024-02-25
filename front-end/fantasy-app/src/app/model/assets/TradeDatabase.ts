@@ -9,8 +9,8 @@ export class TradeDatabaseItem {
     sidea: string[];
     sideb: string[];
     starters: number;
-    teams: number;
-    tep: string;
+    // teams: number;
+    // tep: string;
     transaction_date: string;
     transaction_id: string;
     transaction_value: number;
