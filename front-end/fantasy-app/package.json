@@ -45,7 +45,7 @@
     "grosso-modo": "^4.3.0",
     "http-server": "^14.1.1",
     "javascript-color-gradient": "^2.4.4",
-    "ng2-charts": "^2.4.3",
+    "ng2-charts": "^5.0.4",
     "ngx-device-detector": "^4.0.1",
     "ngx-google-analytics": "^14.0.0",
     "ngx-mat-select-search": "^7.0.5",
