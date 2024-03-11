@@ -31,7 +31,7 @@
     "@angular/material": "^17.2.0",
     "@angular/platform-browser": "^14.3.0",
     "@angular/platform-browser-dynamic": "^14.3.0",
-    "@angular/pwa": "^17.2.0",
+    "@angular/pwa": "^17.2.3",
     "@angular/router": "^14.3.0",
     "@angular/service-worker": "^14.3.0",
     "@sentry/angular-ivy": "^7.93.0",
