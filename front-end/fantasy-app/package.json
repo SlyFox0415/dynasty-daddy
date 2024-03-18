@@ -21,7 +21,7 @@
     "@angular-slider/ngx-slider": "^2.0.4",
     "@angular/animations": "^14.3.0",
     "@angular/cdk": "^17.2.0",
-    "@angular/cli": "^14.2.13",
+    "@angular/cli": "^17.3.0",
     "@angular/common": "^14.3.0",
     "@angular/compiler": "^14.3.0",
     "@angular/compiler-cli": "^14.3.0",
