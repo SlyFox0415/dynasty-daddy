@@ -31,7 +31,7 @@
     "@babel/core": "^7.23.7",
     "@babel/node": "^7.22.19",
     "@babel/plugin-transform-runtime": "^7.23.7",
-    "@babel/preset-env": "^7.23.8",
+    "@babel/preset-env": "^7.24.3",
     "@babel/register": "^7.23.7",
     "@babel/runtime": "^7.23.8",
     "chai": "^4.4.1",
