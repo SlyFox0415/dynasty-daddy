@@ -27,7 +27,7 @@
     "xml-js": "^1.6.11"
   },
   "devDependencies": {
-    "@babel/cli": "^7.23.4",
+    "@babel/cli": "^7.24.1",
     "@babel/core": "^7.23.7",
     "@babel/node": "^7.22.19",
     "@babel/plugin-transform-runtime": "^7.23.7",
